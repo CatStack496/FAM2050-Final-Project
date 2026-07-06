@@ -1,0 +1,159 @@
+{
+  "title": "A quick map of what’s been in rotation.",
+  "intro": "This page keeps the same hover-card logic, but the content is framed more like a listening log with labels for songs, albums, and artists.",
+  "items": [
+    {
+      "title": "Sunshine Bright on Me",
+      "artist": "Kangaroo",
+      "kind": "Song",
+      "rating": "★★★★★",
+      "note": "The kind of bright, slightly strange pop that makes me return to it immediately.",
+      "href": "artist/detail.html?artist=kangaroo#review-anchor"
+    },
+    {
+      "title": "Metaphorical Music",
+      "artist": "Nujabes",
+      "kind": "Album",
+      "rating": "★★★★★",
+      "note": "This one feels both intimate and huge, which is a pretty great combination.",
+      "href": "artist/detail.html?artist=nujabes#review-anchor"
+    },
+    {
+      "title": "Casiopea",
+      "artist": "Jazz fusion mainstay",
+      "kind": "Artist",
+      "rating": "★★★★☆",
+      "note": "The consistency is ridiculous; the later records are good, but the older ones hit hard.",
+      "href": "artist/detail.html?artist=casiopea#review-anchor"
+    },
+    {
+      "title": "Sunnyside Cruise",
+      "artist": "T-Square",
+      "kind": "Song",
+      "rating": "★★★★☆",
+      "note": "A bright little piece of pop-jazz that sounds like it belongs in a perfect road trip.",
+      "href": "artist/detail.html?artist=t-square#review-anchor"
+    },
+    {
+      "title": "An Insatiable High",
+      "artist": "Masayoshi Takanaka",
+      "kind": "Album",
+      "rating": "★★★★★",
+      "note": "A warm record with a lot of shimmer and attitude.",
+      "href": "artist/detail.html?artist=masayoshi-takanaka#review-anchor"
+    },
+    {
+      "title": "Flying Beagle",
+      "artist": "Himiko Kikuchi",
+      "kind": "Song",
+      "rating": "★★★★☆",
+      "note": "The kind of title that instantly makes me want to hit play again.",
+      "href": "artist/detail.html?artist=himiko-kikuchi#review-anchor"
+    },
+    {
+      "title": "F・L・Y",
+      "artist": "Spectrum",
+      "kind": "Song",
+      "rating": "★★★★☆",
+      "note": "Huge, melodic, and very easy to return to.",
+      "href": "artist/detail.html?artist=spectrum#review-anchor"
+    },
+    {
+      "title": "Curse of Darkness",
+      "artist": "Castlevania Sound Team",
+      "kind": "Soundtrack",
+      "rating": "★★★★★",
+      "note": "A soundtrack that feels dramatic without ever losing its pull.",
+      "href": "artist/detail.html?artist=castlevania-sound-team#review-anchor"
+    },
+    {
+      "title": "Innocence Primeval Breaker",
+      "artist": "Falcom Sound Team jdk",
+      "kind": "Song",
+      "rating": "★★★★☆",
+      "note": "A recent discovery that already feels like a favorite.",
+      "href": "artist/detail.html?artist=falcom-sound-team#review-anchor"
+    },
+    {
+      "title": "Move Me",
+      "artist": "Ridge Racer Series",
+      "kind": "Song",
+      "rating": "★★★★★",
+      "note": "A perfect example of how much personality can fit into a short game-track loop.",
+      "href": "artist/detail.html?artist=ridge-racer#review-anchor"
+    },
+    {
+      "title": "Waltz for Life Will Born",
+      "artist": "Uyama Hiroto",
+      "kind": "Song",
+      "rating": "★★★★★",
+      "note": "A gentle, elegant track that feels both intimate and deeply uplifting.",
+      "href": "artist/detail.html?artist=uyama-hiroto#review-anchor"
+    },
+    {
+      "title": "Soul of Freedom",
+      "artist": "Uyama Hiroto",
+      "kind": "Song",
+      "rating": "★★★★★",
+      "note": "Warm, spacious, and full of the kind of calm that makes you want to keep listening.",
+      "href": "artist/detail.html?artist=uyama-hiroto#review-anchor"
+    }
+  ],
+  "songs": [
+    {
+      "song": "Sunshine Bright on Me",
+      "artist": "Kangaroo",
+      "note": "Bright, slightly strange, and immediately memorable."
+    },
+    {
+      "song": "Feather",
+      "artist": "Nujabes",
+      "note": "Quietly elegant and deeply human."
+    },
+    {
+      "song": "Midnight Rendezvous",
+      "artist": "Casiopea",
+      "note": "A perfect case for how tight and joyful their playing can be."
+    },
+    {
+      "song": "Sunnyside Cruise",
+      "artist": "T-Square",
+      "note": "Playful and melodic without losing its groove."
+    },
+    {
+      "song": "Tokyo Reggie",
+      "artist": "Masayoshi Takanaka",
+      "note": "Shimmering, polished, and full of attitude."
+    },
+    {
+      "song": "Flying Beagle",
+      "artist": "Himiko Kikuchi",
+      "note": "The song that made me want to keep listening."
+    },
+    {
+      "song": "F・L・Y",
+      "artist": "Spectrum",
+      "note": "Brass-forward and instantly memorable."
+    },
+    {
+      "song": "Mortiva Aqueduct",
+      "artist": "Castlevania Sound Team / Michiru Yamane",
+      "note": "A perfect example of how atmospheric and memorable these soundtracks can be."
+    },
+    {
+      "song": "Innocence Primeval Breaker",
+      "artist": "Falcom Sound Team jdk",
+      "note": "The track that made me want to hear more from the catalog."
+    },
+    {
+      "song": "Move Me",
+      "artist": "Ridge Racer Series",
+      "note": "Bright, kinetic, and very easy to have on repeat."
+    },
+    {
+      "song": "Waltz for Life Will Born",
+      "artist": "Uyama Hiroto",
+      "note": "A beautiful, acoustic-leaning song that feels instantly calming and memorable."
+    }
+  ]
+}

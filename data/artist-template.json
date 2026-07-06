@@ -1,0 +1,34 @@
+{
+  "slug": "your-artist-slug",
+  "name": "Artist Name",
+  "genres": "Genre One, Genre Two",
+  "href": "detail.html?artist=your-artist-slug",
+  "image": "/assets/artists/artist-name.jpg",
+  "rating": "★★★★☆",
+  "note": "A short one-line note for the gallery card.",
+  "formation": "1970",
+  "youtube": "https://music.youtube.com/channel/your-link",
+  "lead": "Short description of the artist or project.",
+  "notes": "A few notes about the artist’s place in your listening history.",
+  "favoriteAlbum": "Your favorite album",
+  "favoriteSong": "Your favorite song",
+  "albums": [
+    {
+      "title": "Album One",
+      "description": "Why it matters to you."
+    },
+    {
+      "title": "Album Two",
+      "description": "Why it matters to you."
+    }
+  ],
+  "favoriteSongs": [
+    "Song One",
+    "Song Two",
+    "Song Three"
+  ],
+  "extraNote": "Optional extra context you want to show below the review.",
+  "reviewTitle": "Why this artist stands out",
+  "reviewText": "A paragraph explaining what you love about the artist or project.",
+  "quote": "A memorable quote or line you want to highlight."
+}

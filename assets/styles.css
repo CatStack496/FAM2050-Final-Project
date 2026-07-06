@@ -1,0 +1,123 @@
+body {
+  font-family: "Inter", "Segoe UI", Roboto, Arial, sans-serif;
+  background: #f7f3eb;
+  color: #1f1f1f;
+}
+
+main {
+  padding-bottom: 4rem;
+}
+
+.site-header {
+  background: linear-gradient(135deg, #12243d, #2a4a6b 55%, #587b9e);
+  color: white;
+}
+
+.site-header a {
+  color: rgba(255,255,255,0.92);
+}
+
+.site-header a:hover {
+  color: #fff;
+}
+
+.hero-card,
+.info-card,
+.hover-card,
+.artist-hero {
+  border: 0;
+  border-radius: 1rem;
+  overflow: hidden;
+  box-shadow: 0 12px 35px rgba(18, 36, 61, 0.08);
+}
+
+.hover-card {
+  position: relative;
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+.hover-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 16px 36px rgba(18, 36, 61, 0.16);
+}
+
+.hover-card img {
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.hover-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 0.5rem;
+  padding: 1.1rem;
+  background: linear-gradient(180deg, rgba(8, 15, 30, 0.82) 0%, rgba(8, 15, 30, 0.58) 100%);
+  color: white;
+  opacity: 0;
+  transform: translateY(6px);
+  transition: opacity 180ms ease, transform 180ms ease;
+}
+
+.hover-card:hover .hover-overlay,
+.hover-card:focus-within .hover-overlay {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.rating-stars {
+  font-size: 1rem;
+  letter-spacing: 0.12em;
+}
+
+.card-badge {
+  display: inline-flex;
+  align-items: center;
+  width: fit-content;
+  border-radius: 999px;
+  padding: 0.35rem 0.7rem;
+  background: rgba(255,255,255,0.13);
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.artist-hero {
+  background: #fffdf8;
+}
+
+.artist-hero img {
+  width: 100%;
+  height: 100%;
+  min-height: 300px;
+  object-fit: cover;
+}
+
+.artist-details ul {
+  padding-left: 1.15rem;
+}
+
+.artist-details li + li {
+  margin-top: 0.4rem;
+}
+
+.album-grid .card-title {
+  font-size: 1rem;
+}
+
+.album-grid .card-text {
+  color: #5f6874;
+}
+
+.page-section {
+  margin-top: 2rem;
+}
+
+blockquote {
+  border-left: 3px solid #8ca6c7;
+  padding-left: 1rem;
+  color: #405468;
+  font-style: italic;
+}

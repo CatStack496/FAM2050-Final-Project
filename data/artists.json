@@ -1,0 +1,474 @@
+{
+  "title": "The artists behind the listening notes.",
+  "intro": "This index gathers the artists into a simple gallery so the site feels like a complete archive instead of a set of disconnected pages.",
+  "artists": [
+    {
+      "slug": "kangaroo",
+      "name": "Kangaroo",
+      "genres": "City Pop, Jazz Fusion, Disco, Funk",
+      "href": "detail.html?artist=kangaroo",
+      "image": "/assets/artists/kangaroo.jpg",
+      "rating": "★★★★★",
+      "note": "A small catalog, but every release feels purposeful and memorable.",
+      "formation": "1983",
+      "youtube": "https://music.youtube.com/channel/UCEBb3GSQobueEmEKI3YzMDw",
+      "lead": "A compact, underappreciated band that made a handful of albums and left behind a whole lot of great songs.",
+      "notes": "They only made four albums before they split, but every one of them feels purposeful and full of personality.",
+      "favoriteAlbum": "Steppin’",
+      "favoriteSong": "Sunshine Bright on Me",
+      "favoriteSongs": [
+        "Sunshine Bright on Me",
+        "A Night in New York",
+        "Popcorn",
+        "Love the Night Away",
+        "Seabreeze"
+      ],
+      "albums": [
+        {
+          "title": "Steppin’",
+          "description": "The record I keep returning to for its consistency and sheer number of strong songs."
+        },
+        {
+          "title": "Sunshine Bright on Me",
+          "description": "A bright, polished track that feels instantly memorable."
+        },
+        {
+          "title": "A Night in New York",
+          "description": "One of the songs that makes the band feel a little more cinematic and a little more sly."
+        }
+      ],
+      "reviewTitle": "Why Kangaroo stands out",
+      "reviewText": "What I like most is that the band never feels like it is overexplaining itself. The songs are sharp, melodic, and weird in just the right way. Even though they only made a small number of albums, the writing is so consistent that it feels much larger than the catalog suggests.",
+      "quote": "Steppin’ is the one I would pick first if I had to choose a single album, mostly because it lands so many songs I genuinely want to hear again."
+    },
+    {
+      "slug": "nujabes",
+      "name": "Nujabes",
+      "genres": "Lo-fi Hip Hop, Jazz Hop, Chillhop",
+      "href": "detail.html?artist=nujabes",
+      "image": "/assets/artists/nujabes.jpg",
+      "rating": "★★★★★",
+      "note": "Calm, reflective, and deeply influential without ever feeling heavy-handed.",
+      "formation": "1995",
+      "youtube": "https://music.youtube.com/channel/UCxQQET-tQsC4cwzLow9ZsuQ",
+      "lead": "An artist whose work feels calm and reflective while still holding a huge amount of emotional weight.",
+      "notes": "He is often treated as a foundational figure in lo-fi hip hop, and that reputation makes a lot of sense to me.",
+      "favoriteAlbum": "Metaphorical Music",
+      "favoriteSong": "Feather",
+      "favoriteSongs": [
+        "Lady Brown (feat. Cise Starr)",
+        "Feather (feat. Cise Starr & Akin from CYNE)",
+        "Transcendence",
+        "Counting Stars",
+        "Luv(sic.) Pt. 2",
+        "Luv(sic.) Pt. 3",
+        "F.I.L.O. (feat. Shing02)",
+        "Horizon"
+      ],
+      "albums": [
+        {
+          "title": "Modal Soul",
+          "description": "The record that feels most complete and most emotionally wide open."
+        },
+        {
+          "title": "Metaphorical Music",
+          "description": "Often the one I reach for when I want something quietly beautiful."
+        },
+        {
+          "title": "Samurai Champloo",
+          "description": "A soundtrack that feels like both a companion piece and a whole world of its own."
+        }
+      ],
+      "reviewTitle": "Why Nujabes stays with me",
+      "reviewText": "His music has a strange kind of stillness. Even when it is full of motion, the feeling is always deep and reflective. I do not think I have listened to every record he made, but the ones I know already feel like they belong in a very specific emotional space.",
+      "quote": "Lady Brown, Feather, and Luv(sic.) Pt. 2 are the songs I keep returning to when I want something that feels both elegant and human."
+    },
+    {
+      "slug": "casiopea",
+      "name": "Casiopea",
+      "genres": "Jazz Fusion, Jazz-Funk",
+      "href": "detail.html?artist=casiopea",
+      "image": "/assets/artists/casiopea.jpg",
+      "rating": "★★★★★",
+      "note": "A band that made fusion jazz feel immediate, fun, and wonderfully tight.",
+      "formation": "1976",
+      "youtube": "https://music.youtube.com/channel/UCVc0F74TcYIT_g7n0_G_tmQ",
+      "lead": "A fusion-jazz band that made the genre feel more immediate and more fun than I expected.",
+      "notes": "The older records are the ones that stick with me the most, even if some of the newer material is also very strong.",
+      "favoriteAlbum": "Casiopea",
+      "favoriteSong": "Midnight Rendezvous",
+      "favoriteSongs": [
+        "Midnight Rendezvous",
+        "Time Limit",
+        "Swallow",
+        "Dazzling",
+        "Domino Line (Live at Chuo Kaikan Hall, Tokyo, Feb. 1982)",
+        "Black Joke",
+        "Take Me",
+        "Galactic Funk"
+      ],
+      "albums": [
+        {
+          "title": "Casiopea",
+          "description": "A record so consistent that I can put it on and lose track of time."
+        },
+        {
+          "title": "Mint Jams",
+          "description": "Live energy, but still very focused and smart."
+        },
+        {
+          "title": "Photographs",
+          "description": "A record that feels polished, spacious, and wonderfully playable."
+        }
+      ],
+      "reviewTitle": "Why Casiopea keeps pulling me back",
+      "reviewText": "They made me rethink how much I enjoy fusion jazz. The music is technically impressive, but it never feels like a display of technique alone. It is also one of those bands where the sound is weirdly easy to love even if you are not deeply into the genre.",
+      "quote": "Midnight Rendezvous, Time Limit, and Swallow are the tracks that absolutely make the case for them."
+    },
+    {
+      "slug": "t-square",
+      "name": "T-Square",
+      "genres": "Jazz Fusion, Jazz-Rock",
+      "href": "detail.html?artist=t-square",
+      "image": "/assets/artists/t-square.jpg",
+      "rating": "★★★★☆",
+      "note": "Bright, melodic, and polished without feeling overworked.",
+      "formation": "1976",
+      "youtube": "https://music.youtube.com/@t-squaremusicofficial",
+      "lead": "A jazz fusion band with a long history and a very strong sense of melodic structure.",
+      "notes": "I have not listened to them in huge depth, but what I know already feels very memorable.",
+      "favoriteAlbum": "Adventures",
+      "favoriteSong": "Sunnyside Cruise",
+      "favoriteSongs": [
+        "Trela Alegre",
+        "Travelers",
+        "Takarajima",
+        "Sunnyside Cruise",
+        "Night Dreamer",
+        "Jubilee"
+      ],
+      "albums": [
+        {
+          "title": "Adventures",
+          "description": "The most influential and most immediately rewarding record in the set."
+        },
+        {
+          "title": "Takarajima",
+          "description": "A bright, melodic piece that still feels very alive."
+        },
+        {
+          "title": "Sunnyside Cruise",
+          "description": "A lighter, more playful track that still feels polished and memorable."
+        }
+      ],
+      "reviewTitle": "Why T-Square feels important",
+      "reviewText": "What I like most is how much of the band's personality comes through even in a short listen. Their records feel polished but not cold, and the songs often have a kind of bright momentum that makes them easy to revisit.",
+      "quote": "Adventures is the one that feels most substantial, not only because of the songs but because of the place it holds in the wider history of the genre."
+    },
+    {
+      "slug": "masayoshi-takanaka",
+      "name": "Masayoshi Takanaka",
+      "genres": "Jazz Fusion, City Pop, Jazz-Funk",
+      "href": "detail.html?artist=masayoshi-takanaka",
+      "image": "/assets/artists/masayoshi-takanaka.jpg",
+      "rating": "★★★★★",
+      "note": "Warm, glossy, and full of personality from the first listen.",
+      "formation": "1970",
+      "youtube": "https://music.youtube.com/channel/UCh2rvH6MGKYC-UHjTA1-eIQ",
+      "lead": "A guitarist and composer whose records feel cut from the same bright, polished, impossible-to-ignore thread.",
+      "notes": "I came to him more recently than some of the others, but the records I have heard already feel very memorable.",
+      "favoriteAlbum": "Seychelles",
+      "favoriteSong": "Tokyo Reggie",
+      "favoriteSongs": [
+        "Oh! Tengo Suerte",
+        "Tokyo Reggie",
+        "Sexy Dance",
+        "Palm Street",
+        "Brazilian Skies",
+        "Ready to Fly",
+        "Akogareno Seychelles Shotou"
+      ],
+      "albums": [
+        {
+          "title": "Seychelles",
+          "description": "The one that feels the most cohesive and the most immediately lovable."
+        },
+        {
+          "title": "All of Me",
+          "description": "A record that feels warm, polished, and rich in atmosphere."
+        },
+        {
+          "title": "An Insatiable High",
+          "description": "A more vivid and slightly more restless record, but very rewarding."
+        }
+      ],
+      "reviewTitle": "Why Takanaka stands out",
+      "reviewText": "The guitar work is one part of it, but what keeps me interested is how much personality is packed into each record. There is a real sense of style here, and it is the kind of style that makes me want to hear more instead of less.",
+      "quote": "Tokyo Reggie, Sexy Dance, and Palm Street are the songs that make the whole thing feel especially alive."
+    },
+    {
+      "slug": "himiko-kikuchi",
+      "name": "Himiko Kikuchi",
+      "genres": "Jazz Fusion, City Pop, Jazz-Funk",
+      "href": "detail.html?artist=himiko-kikuchi",
+      "image": "/assets/artists/himiko-kikuchi.jpg",
+      "rating": "★★★★☆",
+      "note": "A later discovery that has already become one of the most rewarding listens in this set.",
+      "formation": "1970",
+      "youtube": "https://music.youtube.com/channel/UCszf6gxSnG8-hwcg_ghHZgw",
+      "lead": "A later discovery for me, but one that has already become one of the most rewarding listens in this whole set.",
+      "notes": "I only really knew her through Flying Beagle at first, but Sevilla Breeze has become just as important to me.",
+      "favoriteAlbum": "Sevilla Breeze",
+      "favoriteSong": "Flying Beagle",
+      "favoriteSongs": [
+        "Look Your Back!",
+        "Sevilla Breeze",
+        "Hollywood Illusion",
+        "Primavela",
+        "Toreador",
+        "Flying Beagle",
+        "Gypsy Song (from Carmen)",
+        "Blue Gibraltar"
+      ],
+      "albums": [
+        {
+          "title": "Sevilla Breeze",
+          "description": "The record that now feels like the clearest statement of what makes her work so good."
+        },
+        {
+          "title": "Flying Beagle",
+          "description": "The album that introduced me to her and still holds a lot of charm."
+        }
+      ],
+      "reviewTitle": "Why Himiko Kikuchi matters to me",
+      "reviewText": "Her work is one of those discoveries that grows on me the more I hear it. It is not just that the songs are good; it is that they feel distinct from the other artists I am listening to right now, and that makes them easier to remember.",
+      "quote": "Look Your Back!, Sevilla Breeze, and Flying Beagle are the songs that made me want to keep going."
+    },
+    {
+      "slug": "spectrum",
+      "name": "Spectrum",
+      "genres": "Jazz Fusion, Jazz-Rock, City Pop, Big Band/Brass",
+      "href": "detail.html?artist=spectrum",
+      "image": "/assets/artists/spectrum.jpg",
+      "rating": "★★★★☆",
+      "note": "A bright, big-band-leaning fusion act with a few songs that I keep coming back to.",
+      "formation": "1970s",
+      "youtube": "https://music.youtube.com/channel/UCezCyeGPvx4UFZI36T1qOYw",
+      "lead": "I have not listened to their discography in depth, but the songs I know already give off a huge, polished, ensemble-driven energy.",
+      "notes": "Their sound is one of the most immediately recognizable in this set because of the big-band feel and the way the brass lines carry the hooks.",
+      "favoriteAlbum": "Optical Sunrise / Spectrum 2",
+      "favoriteSong": "F・L・Y",
+      "albums": [
+        {
+          "title": "Spectrum",
+          "description": "A strong introduction to the band’s big, melodic side."
+        },
+        {
+          "title": "Optical Sunrise / Spectrum 2",
+          "description": "The album with the highest concentration of songs I already love."
+        },
+        {
+          "title": "Spectrum Super Remix 1991",
+          "description": "A very imaginative remix record that makes the originals feel new again."
+        }
+      ],
+      "favoriteSongs": [
+        "F・L・Y (1991 Mix)",
+        "Sunrise (Hyper Mix)",
+        "Passing Dream",
+        "F・L・Y",
+        "Sunrise",
+        "Motion"
+      ],
+      "reviewTitle": "Why Spectrum stands out",
+      "reviewText": "What I like most is the scale of the sound. It feels huge without losing the melodic clarity that makes the songs stick.",
+      "quote": "Even a small taste of Spectrum makes you want to hear more of the larger, brass-forward world it creates."
+    },
+    {
+      "slug": "castlevania-sound-team",
+      "name": "Castlevania Sound Team / Michiru Yamane",
+      "genres": "Video Game Soundtrack, Gothic Rock, Orchestral",
+      "href": "detail.html?artist=castlevania-sound-team",
+      "image": "/assets/artists/castlevania-sound-team.jpg",
+      "rating": "★★★★★",
+      "note": "A soundtrack catalog that stays consistently excellent and emotionally huge.",
+      "formation": "1980s",
+      "youtube": "https://music.youtube.com/channel/UCgfC0Lm7_Ms2pDe4nfIctqA",
+      "lead": "The Castlevania music is one of the biggest reasons I keep coming back to the series, and Michiru Yamane is a huge part of that legacy.",
+      "notes": "The PS2-era soundtracks are especially important to me because they feel both grand and very playable on repeat.",
+      "favoriteAlbum": "Curse of Darkness",
+      "favoriteSong": "Mortiva Aqueduct",
+      "albums": [
+        {
+          "title": "Castlevania: Curse of Darkness",
+          "description": "The soundtrack I keep returning to for its emotional range and replay value."
+        },
+        {
+          "title": "Castlevania: Symphony of the Night",
+          "description": "A classic with some of the most memorable tracks in the whole series."
+        },
+        {
+          "title": "Castlevania: Aria of Sorrow",
+          "description": "A darker, more intimate set that still feels very alive."
+        }
+      ],
+      "favoriteSongs": [
+        "Mortiva Aqueduct",
+        "Dracula’s Castle",
+        "Baljhet Mountains",
+        "Marble Gallery",
+        "Tragic Prince",
+        "Forest of Jigramunt",
+        "Wandering Souls",
+        "Crystal Teardrop",
+        "Ruined Castle Corridor",
+        "Clock Tower",
+        "Lost Painting",
+        "Underground Reservoir",
+        "Garibaldi Courtyard",
+        "Don’t Wait Until Night / Heart of Fire"
+      ],
+      "extraNote": "This entry is especially personal because Castlevania is probably my favorite game series of all time.",
+      "reviewTitle": "Why Castlevania’s music matters to me",
+      "reviewText": "The music is one of the reasons the series feels so timeless. It is dramatic, melodic, and often surprisingly intimate at the same time.",
+      "quote": "Even when I only want a few tracks, the whole catalogue feels like a world I want to keep exploring."
+    },
+    {
+      "slug": "falcom-sound-team",
+      "name": "Falcom Sound Team jdk",
+      "genres": "Video Game Soundtrack, Rock, Orchestral, Electronic",
+      "href": "detail.html?artist=falcom-sound-team",
+      "image": "/assets/artists/falcom-sound-team.jpg",
+      "rating": "★★★★☆",
+      "note": "A newer discovery with a huge range of moods, styles, and memorable themes.",
+      "formation": "1980s",
+      "youtube": "https://music.youtube.com/channel/UCOOOdHr4emIkr02wjynGF3Q",
+      "lead": "I only recently started paying attention to Falcom, but the music already feels rich, varied, and very easy to love.",
+      "notes": "The selection feels broad enough that it can shift from grand orchestral pieces to more hard-edged electronic and rock-driven tracks without losing identity.",
+      "favoriteAlbum": "Adol Christin - Ys 35th Anniversary",
+      "favoriteSong": "Innocence Primeval Breaker",
+      "albums": [
+        {
+          "title": "Adol Christin - Ys 35th Anniversary",
+          "description": "The most rewarding compilation for me so far, especially because it feels curated and comprehensive."
+        },
+        {
+          "title": "Ys IX - Super Ultimate",
+          "description": "A soundtrack that feels confident, dramatic, and very polished."
+        },
+        {
+          "title": "Ys VIII - Lacrimosa of DANA",
+          "description": "A strong example of how wide the style range can get without feeling scattershot."
+        }
+      ],
+      "favoriteSongs": [
+        "Innocence Primeval Breaker",
+        "Great Plains: Pan-Gaia",
+        "Glessing Way!!",
+        "Desert After Tears",
+        "CROSSING RAGE",
+        "Deadly Temptation",
+        "Tension",
+        "At the End of a Disaster",
+        "Crimson Sin",
+        "The Leiston Fortress",
+        "Inevitable Struggle"
+      ],
+      "reviewTitle": "Why Falcom feels exciting",
+      "reviewText": "The biggest thing that stands out is the range. There is so much confidence in the writing that even a short listen makes me want to explore more.",
+      "quote": "It feels like the kind of soundtrack catalog that rewards curiosity more than any single album can contain."
+    },
+    {
+      "slug": "ridge-racer",
+      "name": "Ridge Racer Series",
+      "genres": "Video Game Soundtrack, Techno, Trance, Drum and Bass, Acid Jazz, Breakbeat",
+      "href": "detail.html?artist=ridge-racer",
+      "image": "/assets/artists/ridge-racer.jpg",
+      "rating": "★★★★★",
+      "note": "A series whose soundtrack has stayed consistently excellent from the start.",
+      "formation": "1993",
+      "youtube": "https://music.youtube.com/channel/UC0FP-jTpmwTDSPQuZZih2cg",
+      "lead": "This is one of those series soundtracks that feels almost unfairly strong, even though I have never really played the games themselves.",
+      "notes": "The music is one of the clearest examples of a soundtrack carrying the identity of an entire series across multiple eras.",
+      "favoriteAlbum": "R4 - Ridge Racer Type 4 Original Soundtrack",
+      "favoriteSong": "Move Me",
+      "favoriteSongs": [
+        "Move Me",
+        "Spiral Ahead",
+        "Naked Glow",
+        "RIDGE RACER -one more win-",
+        "Urban Fragments",
+        "Quiet Curves",
+        "Lucid Rhythms",
+        "Silhouette Dance",
+        "Your Vibe",
+        "Pearl Blue Soul",
+        "Rare Hero",
+        "Maximum Zone"
+      ],
+      "albums": [
+        {
+          "title": "R4 - Ridge Racer Type 4 Original Soundtrack",
+          "description": "The soundtrack I would reach for first because it feels complete and wonderfully consistent."
+        },
+        {
+          "title": "Ridge Racer Original Soundtrack",
+          "description": "A classic showcase of the series’ bright, kinetic style."
+        },
+        {
+          "title": "Ridge Racer 2 Original Soundtrack",
+          "description": "A very strong follow-up with plenty of momentum and personality."
+        }
+      ],
+      "favoriteSongs": [
+        "Move Me",
+        "Spiral Ahead",
+        "Naked Glow",
+        "Quiet Curves"
+      ],
+      "reviewTitle": "Why Ridge Racer stays with me",
+      "reviewText": "The soundtrack is so strong that it almost feels like the series’ true identity. It balances energy with enough texture to stay interesting across many listens.",
+      "quote": "Even without playing the games, the music makes the whole franchise feel vivid and memorable."
+    },
+    {
+      "slug": "uyama-hiroto",
+      "name": "Uyama Hiroto",
+      "genres": "Jazz Fusion, Acoustic Jazz, Ambient, Nu Jazz",
+      "href": "detail.html?artist=uyama-hiroto",
+      "image": "/assets/artists/uyama-hiroto.jpg",
+      "rating": "★★★★☆",
+      "note": "A warm, lyrical, mostly instrumental artist whose music feels both calm and deeply rewarding.",
+      "formation": "1990s",
+      "youtube": "https://music.youtube.com/channel/UCJc0E-5k3E7aKCCbsN1eDQg",
+      "lead": "I found him through suggestions for artists similar to Nujabes, and what stands out is how much more instrumental and acoustic his work feels while still carrying the same reflective charm.",
+      "notes": "His music feels more grounded in acoustic and instrumental textures than in beat-driven production, and that makes it feel very distinctive to me.",
+      "favoriteAlbum": "A Son of the Sun",
+      "favoriteSong": "Waltz for Life Will Born",
+      "favoriteSongs": [
+        "Waltz for Life Will Born",
+        "Soul of Freedom",
+        "One Dream",
+        "81Summer",
+        "Windspeaks",
+        "Eternal Bless"
+      ],
+      "albums": [
+        {
+          "title": "A Son of the Sun",
+          "description": "The album I would pick first because it is so full of beautiful acoustic songs and a very strong sense of atmosphere."
+        },
+        {
+          "title": "Freedom of the Son",
+          "description": "A record that feels open, melodic, and deeply reflective."
+        },
+        {
+          "title": "2nd Collection",
+          "description": "A strong showcase of his lyrical, understated style and the warmth of his composing."
+        }
+      ],
+      "reviewTitle": "Why Uyama Hiroto stands out",
+      "reviewText": "What I like most is how calm and human his music feels. It is not trying to overpower you; it simply gives you a lot of beautiful, carefully shaped ideas to settle into.",
+      "quote": "A Son of the Sun is the one I keep coming back to because it feels so complete and so full of genuinely good acoustic songs."
+    }
+  ]
+}

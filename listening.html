@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FAM2050 • Listening Recently</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="assets/styles.css" />
+    <script src="https://unpkg.com/htmx.org@2.0.4"></script>
+  </head>
+  <body>
+    <div hx-get="partials/header.html" hx-trigger="load"></div>
+
+    <main class="container py-4 py-md-5">
+      <section class="hero-card p-4 p-md-5 mb-4">
+        <h2 class="display-6 fw-bold" id="listening-title">A quick map of what’s been in rotation.</h2>
+        <p class="lead mb-0" id="listening-intro">This page keeps the same hover-card logic, but the content is framed more like a listening log with labels for songs, albums, and artists.</p>
+      </section>
+
+      <section class="page-section">
+        <ul class="nav nav-tabs mb-3" id="listening-tabs" role="tablist">
+          <li class="nav-item" role="presentation">
+            <button class="nav-link active" id="recent-tab" data-tab="recent" type="button">Recently spinning</button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link" id="songs-tab" data-tab="songs" type="button">Top songs</button>
+          </li>
+        </ul>
+
+        <div id="recent-panel" class="tab-panel">
+          <div id="recent-grid" class="row g-4"></div>
+        </div>
+        <div id="songs-panel" class="tab-panel d-none">
+          <div id="songs-grid" class="row g-4"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="container py-4 text-muted small">
+      <p class="mb-0">Max Hicks • Listening Diary Website • FAM 2050 Final Project</p>
+    </footer>
+
+    <script>
+      const tabs = document.querySelectorAll('#listening-tabs button');
+      tabs.forEach((button) => {
+        button.addEventListener('click', () => {
+          tabs.forEach((item) => item.classList.remove('active'));
+          button.classList.add('active');
+          document.getElementById('recent-panel').classList.toggle('d-none', button.dataset.tab !== 'recent');
+          document.getElementById('songs-panel').classList.toggle('d-none', button.dataset.tab !== 'songs');
+        });
+      });
+
+      fetch('data/listening.json')
+        .then((response) => response.json())
+        .then((data) => {
+          document.getElementById('listening-title').textContent = data.title;
+          document.getElementById('listening-intro').textContent = data.intro;
+
+          const recentGrid = document.getElementById('recent-grid');
+          recentGrid.innerHTML = data.items
+            .map(
+              (item) => `
+                <div class="col-sm-6 col-lg-4">
+                  <article class="card hover-card h-100">
+                    <a href="${item.href}" class="text-decoration-none text-dark">
+                      <div class="card-body">
+                        <span class="card-badge mb-3">${item.kind}</span>
+                        <h3 class="h5 mb-2">${item.title}</h3>
+                        <p class="text-muted mb-0">${item.artist}</p>
+                      </div>
+                    </a>
+                    <div class="hover-overlay">
+                      <span class="rating-stars">${item.rating}</span>
+                      <p class="small mb-0">${item.note}</p>
+                    </div>
+                  </article>
+                </div>
+              `
+            )
+            .join('');
+
+          const songsGrid = document.getElementById('songs-grid');
+          songsGrid.innerHTML = data.songs
+            .map(
+              (item) => `
+                <div class="col-sm-6 col-lg-4">
+                  <article class="card h-100 song-card">
+                    <div class="card-body">
+                      <span class="card-badge mb-3">Song</span>
+                      <h3 class="h5 mb-2">${item.song}</h3>
+                      <p class="text-muted mb-0">${item.artist}</p>
+                      <p class="small mt-3 mb-0">${item.note}</p>
+                    </div>
+                  </article>
+                </div>
+              `
+            )
+            .join('');
+        });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,78 @@
+{
+  "title": "The Japanese artists I’ve been listening to lately.",
+  "intro": "This is a small, modular archive of the artists, albums, and songs I keep returning to. I kept the tone close to the draft, but shaped it into a cleaner website with cards, hover details, and linked artist pages.",
+  "cards": [
+    {
+      "title": "A Son of the Sun",
+      "subtitle": "Uyama Hiroto",
+      "href": "artist/detail.html?artist=uyama-hiroto#review-anchor",
+      "image": "/assets/albums/a-son-of-the-sun.jpg",
+      "rating": "★★★★☆",
+      "badge": "Acoustic favorite",
+      "note": "A warm, lyrical record full of beautiful acoustic songs and a really strong sense of atmosphere."
+    },
+    {
+      "title": "R4 - Ridge Racer Type 4",
+      "subtitle": "Ridge Racer Series",
+      "href": "artist/detail.html?artist=ridge-racer#review-anchor",
+      "image": "/assets/albums/ridge-racer-type-4.jpg",
+      "rating": "★★★★★",
+      "badge": "Series soundtrack",
+      "note": "An energetic, stylish set that makes the whole franchise feel unforgettable."
+    },
+    {
+      "title": "Adol Christin - Ys 35th Anniversary",
+      "subtitle": "Falcom Sound Team jdk",
+      "href": "artist/detail.html?artist=falcom-sound-team#review-anchor",
+      "image": "/assets/albums/ys-35th-anniversary.jpg",
+      "rating": "★★★★☆",
+      "badge": "Game soundtrack",
+      "note": "A very recent discovery, but the music already feels broad and deeply rewarding."
+    },
+    {
+      "title": "Castlevania: Curse of Darkness",
+      "subtitle": "Castlevania Sound Team / Michiru Yamane",
+      "href": "artist/detail.html?artist=castlevania-sound-team#review-anchor",
+      "image": "/assets/albums/curse-of-darkness.jpg",
+      "rating": "★★★★★",
+      "badge": "Game soundtrack",
+      "note": "The soundtrack that makes the whole series feel even more vivid and personal."
+    },
+    {
+      "title": "Spectrum",
+      "subtitle": "Spectrum",
+      "href": "artist/detail.html?artist=spectrum#review-anchor",
+      "image": "/assets/albums/spectrum.jpg",
+      "rating": "★★★★☆",
+      "badge": "Big band fusion",
+      "note": "A wider, brass-forward sound that still lands on melody and momentum."
+    },
+    {
+      "title": "Casiopea",
+      "subtitle": "Casiopea",
+      "href": "artist/detail.html?artist=casiopea#review-anchor",
+      "image": "/assets/albums/casiopea.jpg",
+      "rating": "★★★★★",
+      "badge": "Fusion classic",
+      "note": "The album that made the whole fusion-jazz lane feel immediate."
+    },
+    {
+      "title": "Modal Soul",
+      "subtitle": "Nujabes",
+      "href": "artist/detail.html?artist=nujabes#review-anchor",
+      "image": "/assets/albums/modal-soul.jpg",
+      "rating": "★★★★★",
+      "badge": "Lo-fi favorite",
+      "note": "A calm, reflective record that still feels huge in the room."
+    },
+    {
+      "title": "Steppin’",
+      "subtitle": "Kangaroo",
+      "href": "artist/detail.html?artist=kangaroo#review-anchor",
+      "image": "/assets/albums/steppin.jpg",
+      "rating": "★★★★★",
+      "badge": "Favorite album",
+      "note": "A bright, swinging record with too many great songs to ignore."
+    }
+  ]
+}
