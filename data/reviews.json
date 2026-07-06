@@ -54,7 +54,7 @@
       "image": "/assets/albums/casiopea.jpg",
       "rating": "★★★★★",
       "badge": "Fusion classic",
-      "note": "The album that made the whole fusion-jazz lane feel immediate."
+      "note": "The album that made me love fusion-jazz from the very beginning."
     },
     {
       "title": "Modal Soul",
@@ -64,6 +64,33 @@
       "rating": "★★★★★",
       "badge": "Lo-fi favorite",
       "note": "A calm, reflective record that still feels huge in the room."
+    },
+    {
+      "title": "Sevilla Breeze",
+      "subtitle": "Himiko Kikuchi",
+      "href": "artist/detail.html?artist=himiko-kikuchi#review-anchor",
+      "image": "/assets/albums/sevilla-breeze.jpg",
+      "rating": "★★★★☆",
+      "badge": "City-pop discovery",
+      "note": "A record that feels warm, polished, and full of personality from the first listen."
+    },
+    {
+      "title": "Seychelles",
+      "subtitle": "Masayoshi Takanaka",
+      "href": "artist/detail.html?artist=masayoshi-takanaka#review-anchor",
+      "image": "/assets/albums/seychelles.jpg",
+      "rating": "★★★★★",
+      "badge": "City-pop favorite",
+      "note": "A glossy, upbeat album that has so much charm and momentum."
+    },
+    {
+      "title": "Adventures",
+      "subtitle": "T-Square",
+      "href": "artist/detail.html?artist=t-square#review-anchor",
+      "image": "/assets/albums/adventures.jpg",
+      "rating": "★★★★☆",
+      "badge": "Jazz-fusion favorite",
+      "note": "A groundbreaking bright, melodic record that feels polished without losing its personality."
     },
     {
       "title": "Steppin’",
